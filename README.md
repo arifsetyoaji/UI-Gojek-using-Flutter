@@ -1,6 +1,9 @@
 # gojek_app
 
 A new Flutter project.
+UI aplikasi Gojek versi sebelumnya. Tutorial ini diakses dari https://medium.com/@riz_maulana/membangun-landing-page-aplikasi-go-jek-dengan-flutter-sdk-bagian-1-3-531d0cd537db
+
+
 
 ## Getting Started
 
